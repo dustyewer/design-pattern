@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.chartfactory;
 
 public class ChartFactory {
     public static Chart getChar(String type) {

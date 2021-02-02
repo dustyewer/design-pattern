@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.firstfactory;
 
 public class ConcreteProductA extends Product {
 

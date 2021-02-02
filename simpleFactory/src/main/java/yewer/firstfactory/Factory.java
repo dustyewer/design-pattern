@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.firstfactory;
 
 public class Factory {
     // 静态工厂方法

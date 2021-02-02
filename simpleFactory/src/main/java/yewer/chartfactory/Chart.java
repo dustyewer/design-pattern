@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.chartfactory;
 
 public interface Chart {
     public void display();

@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.firstfactory;
 
 public abstract class Product {
     // 所有产品类的公共业务方法

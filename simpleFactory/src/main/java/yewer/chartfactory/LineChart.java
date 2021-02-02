@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.chartfactory;
 
 public class LineChart implements Chart {
 

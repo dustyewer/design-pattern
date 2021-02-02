@@ -1,4 +1,4 @@
-package yewer.simplefactory;
+package yewer.chartfactory;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
@@ -10,7 +10,7 @@ public class XmlUtil {
         try {
             DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dFactory.newDocumentBuilder();
-            Document doc = dBuilder.parse(new File("src//main//java//yewer//simplefactory//config.xml"));
+            Document doc = dBuilder.parse(new File("src//main//java//yewer//chartfactory//config.xml"));
 
             NodeList nl = doc.getElementsByTagName("chartType");
             Node classNode = nl.item(0).getFirstChild();

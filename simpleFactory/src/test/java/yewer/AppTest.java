@@ -4,11 +4,11 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import yewer.simplefactory.Chart;
-import yewer.simplefactory.ChartFactory;
-import yewer.simplefactory.Factory;
-import yewer.simplefactory.Product;
-import yewer.simplefactory.XmlUtil;
+import yewer.chartfactory.Chart;
+import yewer.chartfactory.ChartFactory;
+import yewer.firstfactory.Factory;
+import yewer.firstfactory.Product;
+import yewer.chartfactory.XmlUtil;
 
 /**
  * Unit test for simple App.
