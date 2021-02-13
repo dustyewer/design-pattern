@@ -5,6 +5,12 @@
     },
     {
       "path": "simple-factory"
+    },
+    {
+      "path": "prototype"
+    },
+    {
+      "path": "singleton"
     }
   ],
   "settings": {}
